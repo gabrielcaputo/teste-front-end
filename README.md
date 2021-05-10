@@ -32,6 +32,7 @@ Texto simples com o conteúdo do layout. Sugerimos copiar esse README e inserir 
 
 ### Vídeos demonstrativos das funcionalidades:
 **Desktop**: https://www.loom.com/share/9280f618307d451bb4c1b79f589d41d2
+
 **Mobile**: https://www.loom.com/share/f9a2954c695d4ed68c39d19e3ca0ec76
 
 ## Requisitos técnicos
