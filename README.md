@@ -3,7 +3,7 @@
 
 ## Objetivo e proposta
 
-O objetivo desse desafio é avaliar os conhecimentos técnicos dos candidatos às vagas de Desenvolvedor Front End no Olist Pax.
+O objetivo desse desafio é avaliar os conhecimentos técnicos dos candidatos às vagas de Desenvolvedor Front End no Olist Pax de acordo com o seu nível profissional (Junior, Pleno e/ou Senior).
 
 Deverá ser criada uma aplicação onde você calcula o quanto de tempo é necessário para maratonar a sua série favorita. Além disso você também deve ver um resumo da série e seus personagens principais.
 
