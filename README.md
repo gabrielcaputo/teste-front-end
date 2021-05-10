@@ -16,7 +16,7 @@ Localizado no topo da página, contendo o logo do lado esquerdo (📺 maratonato
 
 - **Início**:
     - Ao entrar na página, deverá ser exibida uma sessão no meio do navegador com uma frase/busca/pergunta configurável:
-    > Consigo maratonar **Game of Thrones¹** em **1³** **semana²**?
+    > Consigo maratonar **Game of Thrones<sup>i</sup>** em **1<sup>iii</sup>** **semana<sup>ii</sup>**?
     1. **Busca de séries:** Na frase, deverá ter um input de busca de séries com o placeholder *Game of Thrones*. Ao clicar nesse input, o mesmo deverá crescer até um determinado tamanho para melhor usabilidade. Ao digitar, será realizado uma consulta em uma API e os resultado serão listados em um box abaixo desse input com alguns itens. Cada item deverá conter o poster, nome e ano da série.
     2. **Seletor de período de tempo**: Na frase, ao clicar na palavra de período de tempo (dia, semana, mês ou ano) deverá alterar ciclicamente esse período.
     3. **Seletor de multiplicador do período de tempo**: No fim da frase, deverá conter duas setas para aumentar ou diminuir o multiplicador de período. Caso o multiplicador seja maior que 1, a frase deverá contemplar os nomes de período de tempo no plural (dias, semanas, meses ou anos).
