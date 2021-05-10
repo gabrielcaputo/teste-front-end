@@ -7,7 +7,7 @@ O objetivo desse desafio é avaliar os conhecimentos técnicos dos candidatos à
 
 Deverá ser criada uma aplicação onde você calcula o quanto de tempo é necessário para maratonar a sua série favorita. Além disso você também deve ver um resumo da série e seus personagens principais.
 
-## Instruções e descrição das funcionalidades
+## Instruções e descrição das funcionalidades:
 
 Crie uma aplicação utilizando o seguinte layout: https://www.figma.com/file/LhWyHZ1vSfPPPxwmoIyMM5/Teste-Front-End-Maratonator?node-id=0%3A1:
 
