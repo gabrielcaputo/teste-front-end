@@ -35,7 +35,7 @@ Texto simples com o conteúdo do layout. Sugerimos copiar esse README e inserir 
 
 **Mobile**: https://www.loom.com/share/f9a2954c695d4ed68c39d19e3ca0ec76
 
-## Requisitos técnicos
+## Requisitos técnicos:
 - Criação de um repositório GIT com o código da sua aplicação.
 - A aplicação deve ser construída em Vue utilizando a Vue CLI:
     - VueX para controle do estado da aplicação.
@@ -59,7 +59,7 @@ Texto simples com o conteúdo do layout. Sugerimos copiar esse README e inserir 
 - Implementação de testes unitários utilizando o Jest ou testes e2e utilizando o Cypress.
 - Disponibilizar uma URL pública com a aplicação.
 
-## Finalizou? Como envio o teste?
+## Finalizou? Como envio o resultado do desafio?
 
 Envie um e-mail para gabriel.caputo@olistpax.com com cópia para gabriel.gelado@olistpax.com e com o título:
 
