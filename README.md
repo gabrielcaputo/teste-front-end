@@ -54,14 +54,14 @@ Texto simples com o conteúdo do layout. Sugerimos copiar esse README e inserir 
 
 ## Ganham mais pontos na avaliação:
 - Animações, desde que sejam performáticas.
-- Atomic Design e/ou BEM na estruturação dos componentes.
+- Atomic Design na estruturação dos componentes.
 - Implementação de funcionalidades além das requisitadas nas instruções e no layout.
 - Implementação de testes unitários utilizando o Jest ou testes e2e utilizando o Cypress.
 - Disponibilizar uma URL pública com a aplicação.
 
 ## Finalizou? Como envio o teste?
 
-Envie um e-mail para gabriel.caputo@olistpax.com com cópia para gabriel.gelado@olistpax.com com o título:
+Envie um e-mail para gabriel.caputo@olistpax.com com cópia para gabriel.gelado@olistpax.com e com o título:
 
 > SEU NOME - Desafio Front-end - Olist Pax
 
