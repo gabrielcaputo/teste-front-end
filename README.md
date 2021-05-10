@@ -60,7 +60,7 @@ Texto simples com o conteúdo do layout. Sugerimos copiar esse README e inserir 
 
 ## Finalizou? Como envio o teste?
 
-Envie um e-mail para gabriel.caputo@olistpax.com com cópia para  gabriel.gelado@olistpax.com com o título:
+Envie um e-mail para gabriel.caputo@olistpax.com com cópia para gabriel.gelado@olistpax.com com o título:
 
 > SEU NOME - Desafio Front-end - Olist Pax
 
